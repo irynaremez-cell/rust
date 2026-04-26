@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+pub mod task1;
+pub mod task2;
+pub mod task3;
+=======
 mod task01;
 mod task02;
 mod task03;
@@ -18,3 +23,4 @@ mod task17;
 mod task18;
 mod task19;
 mod task20;
+>>>>>>> a910e0040b75667e3bb6b42bdeb12cd9bc2c2cbc
