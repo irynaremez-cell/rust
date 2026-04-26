@@ -1,0 +1,3 @@
+mod hackerrank;
+
+fn main() {}
