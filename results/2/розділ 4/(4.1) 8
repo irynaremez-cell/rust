@@ -1,0 +1,5 @@
+fn main() {
+    assert!((0.1f64 + 0.2 - 0.3).abs() < 1e-10);
+
+    println!("Success!");
+}

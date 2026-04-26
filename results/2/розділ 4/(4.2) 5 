@@ -1,0 +1,13 @@
+
+fn main() {
+    let _v: () = ();
+
+    let v = implicitly_ret_unit();
+    assert_eq!(v, ());
+
+    println!("Success!");
+}
+
+fn implicitly_ret_unit() {
+    println!("I will return a ()");
+}
