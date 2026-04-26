@@ -1,0 +1,22 @@
+fn main() {
+    println!("Success!");
+}
+
+fn get_option(tp: u8) -> Option<i32> {
+    match tp {
+        1 => {
+            return Some(42);
+        }
+        _ => {
+            return Some(0);
+        }
+    };
+
+
+    never_return_fn()
+}
+
+
+fn never_return_fn() -> ! {
+    panic!("This function never returns!");
+}

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/practice6rust.iml" filepath="$PROJECT_DIR$/.idea/practice6rust.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/untitled.iml" filepath="$PROJECT_DIR$/.idea/untitled.iml" />
+>>>>>>> 0a80e1c2dffcaa97ea5ac54bcc2c0d5af7bee4b4
     </modules>
   </component>
 </project>

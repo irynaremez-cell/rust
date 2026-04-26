@@ -3,9 +3,5 @@
 version = 4
 
 [[package]]
-<<<<<<< HEAD
-name = "practice6rust"
-=======
-name = "rust-practice"
->>>>>>> 0a80e1c2dffcaa97ea5ac54bcc2c0d5af7bee4b4
+name = "practice5"
 version = "0.1.0"
