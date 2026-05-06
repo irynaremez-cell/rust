@@ -1,4 +1,4 @@
-pub fn sum_digits(x: i32) -> i32 {
+mkdir -p results/3pub fn sum_digits(x: i32) -> i32 {
     let mut n = x;
     let mut sum = 0;
 
